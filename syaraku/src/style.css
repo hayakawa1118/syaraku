@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: sans-serif;
+}
+
+header {
+  background: black;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 2px solid red;
+}
+
+.hero {
+  padding: 100px 20px;
+  text-align: center;
+}
